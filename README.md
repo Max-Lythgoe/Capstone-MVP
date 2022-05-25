@@ -11,3 +11,5 @@ My app will be an ecommerce site similar to bestbuy/apple, selling electronic it
 * Filter items by category
 * Login which will save user data
 * Cool animations for elements on home page
+# Database Model
+![db_img](https://user-images.githubusercontent.com/100624501/170320912-034135ff-5f05-4063-8faa-5da44235f639.PNG)
